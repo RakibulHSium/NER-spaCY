@@ -11,7 +11,6 @@ Methodology used to create and train a custom Named Entity Recognition (NER) mod
   - [Training Data Preparation](#training-data-preparation)
   - [Training](#training)
   - [Evaluation](#evaluation)
-  - [Model Customization](#model-customization)
   - [Data Visualization](#data-visualization)
 
 ## Methodology
@@ -64,11 +63,6 @@ Methodology used to create and train a custom Named Entity Recognition (NER) mod
 |-------------------|--------------------------------------------------|
 | Evaluation Metrics | Criteria defined to assess the performance of the trained model. |
 
-### Model Customization
-
-| Step              | Description                                      |
-|-------------------|--------------------------------------------------|
-| Model Customization | Customizations applied to the spaCy model to adapt it to the specific NER task and named entity labels. |
 
 ### Data Visualization
 
